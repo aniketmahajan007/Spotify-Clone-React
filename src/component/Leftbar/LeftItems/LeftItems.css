@@ -1,0 +1,19 @@
+.LeftItems{
+    transition: 150ms ease-in;
+    display: flex;
+    align-items: center;
+    margin-left: 12px;
+    cursor: pointer;
+    height: 40px;
+    font-size: 0.9em;
+}
+.LeftItems:hover{
+    color:white;
+}
+.LeftItems h4{
+    margin-left: 6px;
+}
+.LeftItems p{
+    margin-left: 6px;
+    font-weight: 500;
+}

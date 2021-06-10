@@ -1,0 +1,21 @@
+.Banner{
+    display:flex;
+    color:white;
+    align-items: flex-end;
+    margin-top:16px;
+}
+.Banner .weeklyimage{
+    width: 15vw;
+    margin: 0 20px;
+    box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+.Banner .Banner_Text{
+    flex:1;
+}
+.Banner .Banner_Text h2{
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.Banner .Banner_Text p{
+     font-size: 14px;
+}

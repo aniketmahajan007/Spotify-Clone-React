@@ -1,0 +1,25 @@
+.Leftbar{
+    flex:0.2;
+    min-width: 200px;
+    padding:6px;
+    background-color: rgba(0, 0, 0, 0.97);
+    color:grey;
+    overflow-y: overlay;
+}
+.Leftbar::-webkit-scrollbar{
+    display: none;
+}
+.Leftbar .logo{
+    width: 110px;
+    margin: 20px 6px 20px 16px;
+}
+.Leftbar > hr{
+    border:1px solid #282828;
+    width: 90%;
+    margin:10px auto;
+}
+.Leftbar .playlist{
+    color: rgba(248, 248, 248, 0.87);
+    padding:10px;
+    letter-spacing: 1px;
+}

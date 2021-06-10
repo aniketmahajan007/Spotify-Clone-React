@@ -1,0 +1,31 @@
+.Header{
+    margin-left:6px;
+    margin-right: 10px;
+    margin-top:6px;
+    display: flex;
+    align-items: center;
+}
+.Header .Header_left{
+    flex: 0.2;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding:6px;
+    border-radius: 20px;
+}
+.Header .Header_left > input{
+    margin-left: 6px;
+    border: 0px;
+    outline: none;
+}
+.Header .Header_right{
+    flex: 0.8;
+    display: flex;
+    align-items: center;
+    padding:6px;
+    color:white;
+    justify-content: flex-end;
+}
+.Header .Header_right h4{
+    margin-left:10px;
+}

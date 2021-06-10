@@ -1,0 +1,26 @@
+.TrackItem{
+    display: flex;
+    align-items: center;
+    color:white;
+    padding:10px
+}
+.TrackItem:hover{
+    cursor: pointer;
+    background-color: black;
+    opacity: 0.6;
+}
+.TrackItem .track_info{
+    margin-left: 20px;
+}
+.TrackItem .track_info > h1{
+    font-size: 16px;
+}
+.TrackItem .track_info > p{
+    font-size: 14px;
+    margin-top: 3px;
+    color:gray;
+}
+.TrackItem .track_img{
+    width: 40px;
+    height: 40px;
+}

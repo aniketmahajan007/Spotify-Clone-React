@@ -1,0 +1,11 @@
+.Midbar{
+    flex:0.8;
+    padding:10px;
+    background: #bdc3c7;
+    background: -webkit-linear-gradient(to bottom, #2c3e50, #bdc3c7);
+    background: linear-gradient(to bottom, #2c3e50, #171818);
+    overflow-y: overlay;
+}
+.Midbar::-webkit-scrollbar{
+    display: none;
+}
