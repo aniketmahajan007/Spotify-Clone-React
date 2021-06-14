@@ -6,6 +6,8 @@ https://spotify-da8c6.web.app/
 
  - Search Functionality
 
+Note: Not mobile responsive yet so it is recommend to open in desktop or tablet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
